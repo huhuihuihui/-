@@ -11,7 +11,7 @@
         <span style="--i: 7">管</span>
         <span style="--i: 8">理</span>
         <span style="--i: 9">系</span>
-        <span style="--i: 10">统1</span>
+        <span style="--i: 10">统</span>
       </h1>
     </div>
     <div class="center"><div class="login"><div class="image"></div> <el-form
