@@ -29,6 +29,6 @@ java -jar BMS-0.0.1-SNAPSHOT.jar
 
 ### 运行结果
 1. 
-![](result\login.png)
+![](https://github.com/huhuihuihui/library/blob/main/result/login.png)
 2. 
-![](result\contents.png)
+![](https://github.com/huhuihuihui/library/blob/main/result/contents.png)
